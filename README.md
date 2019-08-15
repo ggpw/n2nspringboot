@@ -7,3 +7,5 @@ To run this simple app:
 3. Go to command line prompt and change dir to the downloaded folder
 4. run command : mvn clean install
 5. run command : mvn spring-boot:run
+6. hit on your browser "localhost:8080/api/v1/users/{id}/modules" or hit it on postman with request get
+another available get requests are "api/v1/users", "api/v1/users/{id}"
